@@ -23,6 +23,11 @@ function createWindow()
 	win.on('closed',()=>{
 		win = null;
 	});
+
+	win.once('ready-to-show', () => {
+    	window.show()
+  	})
+
 }
 
 
