@@ -4,6 +4,7 @@
   "description": "finds has value of entered text ",
   "main": "main.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +18,9 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/AnkitaKhurana/find_hashValue_electronApp/issues"
+  },
+  "devDependencies": {
+    "electron": "^1.4.12"
   },
   "homepage": "https://github.com/AnkitaKhurana/find_hashValue_electronApp#readme"
 }
