@@ -1,0 +1,22 @@
+{
+  "name": "find_hashvalue_electronapp",
+  "version": "1.0.0",
+  "description": "finds has value of entered text ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkitaKhurana/find_hashValue_electronApp.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Ankita Khurana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkitaKhurana/find_hashValue_electronApp/issues"
+  },
+  "homepage": "https://github.com/AnkitaKhurana/find_hashValue_electronApp#readme"
+}
